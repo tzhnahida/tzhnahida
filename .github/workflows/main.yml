@@ -17,6 +17,10 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
+          #  - read:user
+          #  - read:org
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -29,3 +33,29 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          plugin_gists: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list, about
+          plugin_sponsors_size: 24
+          plugin_sponsors_title: Sponsor Me!
+          plugin_stars: yes
+          plugin_stars_limit: 4
