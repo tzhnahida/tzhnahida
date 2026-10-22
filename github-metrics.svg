@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            987 Commits
+                            988 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.27785593030484" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="403.27785593030484" y="0" width="37.672541989652196" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="440.95039791995697" y="0" width="8.442849054926858" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="449.3932469748838" y="0" width="4.017824351851635" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="453.41107132673545" y="0" width="2.1931120878968926" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.60418341463236" y="0" width="2.0346372743283054" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.6388206889607" y="0" width="1.6751527486959308" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.3139734376566" y="0" width="0.6860265623433581" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.1969243554714" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="403.1969243554714" y="0" width="37.75729652246266" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="440.95422087793406" y="0" width="8.441154706824062" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="449.39537558475814" y="0" width="4.017018037179461" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="453.41239362193755" y="0" width="2.192671964511862" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.6050655864494" y="0" width="2.034228954366263" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.63929454081574" y="0" width="1.6748165716704757" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.3141111124862" y="0" width="0.6858888875138291" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2348,7 +2348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tzhnahida/convo</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">convo — an AI companion that lives in your IM friend list: own schedule, body, relationships and memory (Go + SQLite, no external deps)</div>
@@ -2567,7 +2567,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Oct 2026, 15:15:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2026, 21:34:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
