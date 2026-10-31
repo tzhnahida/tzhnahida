@@ -2352,7 +2352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tzhnahida/convo</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">convo — an AI companion that lives in your IM friend list: own schedule, body, relationships and memory (Go + SQLite, no external deps)</div>
@@ -2571,7 +2571,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Oct 2026, 14:44:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2026, 21:25:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
