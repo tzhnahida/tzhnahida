@@ -33,17 +33,17 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1401 Commits
+                            1440 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.2146255214898" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="389.2146255214898" y="0" width="44.533905721036504" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.74853124252627" y="0" width="9.554568576458376" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="443.30309981898466" y="0" width="8.14827525485279" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="451.4513750738374" y="0" width="4.027596507824287" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.4789715816617" y="0" width="1.9636481058885968" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.4426196875503" y="0" width="1.705431776114448" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.1480514636648" y="0" width="0.8519485363352448" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.7813703901032" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="388.7813703901032" y="0" width="44.60377774710354" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.3851481372067" y="0" width="9.543932887066209" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="442.929081024273" y="0" width="8.13920498401858" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="451.0682860082915" y="0" width="4.415718166271271" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.4840041745628" y="0" width="1.9614622666052608" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.4454664411681" y="0" width="1.7035333709164386" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.1489998120845" y="0" width="0.8510001879155267" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2353,7 +2353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pinguz97/Zynq-SoM</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kicad design files for a Zynq 7020 SoM</div>
@@ -2406,7 +2406,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tzhnahida/convo</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">convo — an AI companion that lives in your IM friend list: own schedule, body, relationships and memory (Go + SQLite, no external deps)</div>
@@ -2579,7 +2579,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2026, 17:47:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 21 Nov 2026, 02:23:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
