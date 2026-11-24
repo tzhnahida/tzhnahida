@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1475 Commits
+                            1480 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.4052849412725" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="388.4052849412725" y="0" width="44.88526170868426" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="433.2905466499568" y="0" width="9.534700617835199" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="442.825247267792" y="0" width="8.131331570340173" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="450.9565788381322" y="0" width="4.531793859323628" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.4883726974558" y="0" width="1.9595648572305255" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.44793755468635" y="0" width="1.7018854675928914" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.14982302227924" y="0" width="0.8501769777207941" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.2822247345665" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="388.2822247345665" y="0" width="45.01473973079264" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="433.29696446535917" y="0" width="9.531679695426567" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="442.82864416078576" y="0" width="8.128755283707017" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="450.9573994444928" y="0" width="4.532402692288284" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.48980213678107" y="0" width="1.9589439994159334" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.448746136197" y="0" width="1.701346251507138" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.15009238770415" y="0" width="0.8499076122958854" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2338,7 +2338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pinguz97/Zynq-SoM</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kicad design files for a Zynq 7020 SoM</div>
@@ -2564,7 +2564,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Nov 2026, 13:11:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 25 Nov 2026, 01:07:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
